@@ -12,6 +12,7 @@ class Program
         string [] names = new string[10];
         names[0] = "John";
         //Her ser vi at vi kan gå inn i arrayet vårt og lagre verdier i arrayet vårt.
+        //Siden arrays er veldig spesifikk når det kommer til lengde, i tillegg til datatype, passer disse bedre til ganger hvor vi vet på forhånd at mengden data ikke endres.
 
         //Her definerer vi et array av doubles, men med forhåndsdefinerte verdier i hver posisjon.
        double[] numbers = [1,2,3,4];
